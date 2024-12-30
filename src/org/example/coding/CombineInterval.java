@@ -3,15 +3,16 @@ package org.example.coding;
 import java.util.Map;
 import java.util.TreeMap;
 
+/*
+ЗАДАЧА
+Есть набор интервалов. Интервалы заданы координатой начала и конца.
+Требуется ответить сколько получится интервалов после объединения интервалов.
+ */
 public class CombineInterval {
 
     /*
-    Есть набор интервалов. Интервалы заданы координатой начала и конца.
-    Требуется ответить сколько получится интервалов после объединения интервалов.
-
     Моя реализация
      */
-
     private static final TreeMap<Integer, Integer> MAP = new TreeMap<>();
 
     public static void main(String[] args) {

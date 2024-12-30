@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /*
 YANDEX
+ЗФДАЧА
 Дается массив nums длинны n
 Потом даются q запросов, каждый запрос это два числа l и r (1 <= l <= r <= n).
 Нужно прибавить единицу к числам nums[l], nums[l+1], ..., nums[r].
@@ -11,6 +12,9 @@ YANDEX
  */
 public class AddInSegment {
 
+    /*
+    Моя реализация
+     */
     private static int[] prefix;
     private static int[] calculatePrefix;
 

@@ -4,16 +4,19 @@ package org.example.coding;
 ЗАДАЧА:
 Необходимо посчитать кол-во островов в матрице
 
+--------------------------------------------------------------------------
 Возможные решения DFS(BFS)
 
 Потом спросить про UNION-FIND
 https://alexakama.github.io/whitebook/content/theory/algorithm/#find_union
-
-Тут представлена моя реализация UNION-FIND
+--------------------------------------------------------------------------
 
 */
 public class IslandCount {
 
+    /*
+    Моя реализация
+     */
     private static int[][] direction = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 
     private static char[][] grid;
