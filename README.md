@@ -20,6 +20,8 @@
   Поиск максимального возрастающего/убывающего подотрезка
 - [AddInInterval](https://github.com/AlexAkama/interview_task/blob/main/src/org/example/coding/AddInInterval.java)  
   Добавления числа к значениям на указанном интервале
+- [GetRanges](https://github.com/AlexAkama/interview_task/blob/main/src/org/example/coding/GetRamges.java)  
+  Получение интервалов из набора точек
 - [CombineInterval](https://github.com/AlexAkama/interview_task/blob/main/src/org/example/coding/CombineInterval.java)  
   Объединение отрезков
 - [RandomSet](https://github.com/AlexAkama/interview_task/blob/main/src/org/example/coding/RandomSet.java)  
