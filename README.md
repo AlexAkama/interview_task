@@ -28,5 +28,8 @@
   Создание класса, где все методы за O(1)
 - [IslandCount](https://github.com/AlexAkama/interview_task/blob/main/src/org/example/coding/IslandCount.java)  
   Подсчет кол-ва островов (find-union)
+- [LRUCache](https://github.com/AlexAkama/interview_task/blob/main/src/org/example/coding/LRUCache.java)  
+  Кэширование горячих дданных
+
 
 </details>
